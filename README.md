@@ -13,7 +13,7 @@ In this exercise, you are asked to implement a Multi Layer Perceptron (MLP) netw
 
 ---
 
-![alt text](https://github.com/tomasurdiales/MLP_NeuralNet_fromScratch/blob/main/diagram.png?raw=true)
+![alt text](https://github.com/tomasurdiales/MLP_NeuralNet_fromScratch/blob/main/figures/diagram.png?raw=true)
 
 ### Result:
 
